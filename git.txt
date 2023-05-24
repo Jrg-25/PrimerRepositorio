@@ -1,7 +1,0 @@
-git init
-git add .
-git status -s
-git commit -m "hola"
-git push -uorigin master
-git push
-git long --oneline
